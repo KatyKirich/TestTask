@@ -1,0 +1,103 @@
+input {
+  height: 40px;
+  width: 250px;
+  border: 2px solid #8080809e;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.logo__col {
+  color: #f29700;
+}
+.sublogo_col {
+  color: grey;
+}
+.search_btn {
+  height: 40px;
+}
+.nav_brdr {
+  border-top: 1px solid #8080809e;
+}
+.nav__btn {
+  font-weight: bold;
+  border-radius: 0px;
+  outline: none;
+}
+.nav__btn:hover {
+  font-weight: bold;
+  border-radius: 0px;
+  outline: none;
+  color: white;
+  background-color: #f29700;
+}
+.active__btn {
+  background-color: #3c4148;
+  color: white;
+}
+.main__bg {
+  background-image: url("img/Layer\ 6@1X.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.main__bg_dark {
+  background-image: url("img/Layer\ 11@1X.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.main__txt__bg {
+  background-image: url("img/Layer\ 10@1X.png");
+}
+.main__title__orange {
+  width: 300px;
+  background-color: #f29700;
+  color: white;
+}
+.color_w {
+  color: white;
+}
+.txt_bold {
+  font-weight: bold;
+}
+.carousel__btn {
+  width: 10px;
+  height: 10px;
+  background-color: transparent;
+  border: 2px solid white;
+}
+.carousel__btn:hover {
+  background-color: #f29700;
+  border: 2px solid #f29700;
+}
+.service__btn {
+  height: 25%;
+  color: #3c4148;
+  border-radius: 0;
+}
+.service__btn:hover {
+  background-color: #eeeeee;
+}
+.icon {
+  width: 45px;
+  height: 45px;
+}
+.icon__img {
+  background-image: url("img/Layer\ 12@1X.png");
+  background-repeat: no-repeat;
+}
+.icon__img1 {
+  background-image: url("img/Layer\ 13@1X.png");
+  background-repeat: no-repeat;
+}
+.icon__img2 {
+  background-image: url("img/Layer\ 17@1X.png");
+  background-repeat: no-repeat;
+}
+.icon__img3 {
+  background-image: url("img/Layer\ 15@1X.png");
+  background-repeat: no-repeat;
+}
+.icon__img4 {
+  background-image: url("img/Layer\ 16@1X.png");
+  background-repeat: no-repeat;
+}
